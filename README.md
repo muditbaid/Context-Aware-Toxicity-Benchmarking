@@ -1,11 +1,3 @@
-Here's your **`README.md`** file with the structured and recruiter-friendly documentation for your project. You can copy and save this as `README.md` in your project folder.
-
----
-
-### **📌 Creating `README.md` in Your Project**
-#### **1️⃣ Save This File in Your Project Folder**
-Create a `README.md` file in the root directory of your project and paste the following content.
-
 ```md
 # 🚀 ToxiEval: AI-Powered Toxicity Detection & Benchmarking
 **Automated pipeline for toxicity detection using NLP models. Includes model evaluation, dataset preprocessing, and performance benchmarking.**  
