@@ -25,8 +25,8 @@ ToxiEval is an **AI-driven framework** designed to **analyze and benchmark toxic
 ## 🛠️ Installation & Setup
 ### 🔹 **1. Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/ToxiEval.git
-cd ToxiEval
+git clone https://github.com/<muditbaid>/Context-Aware-Toxicity-Benchmarking.git
+cd Context-Aware-Toxicity-Benchmarking
 ```
 
 ### 🔹 **2. Install Dependencies**
@@ -48,7 +48,7 @@ python batch_evaluation.py
 
 ## 📊 Sample Results
 ### **📌 Confusion Matrix**
-![Confusion Matrix](https://user-images.githubusercontent.com/yourimage.png) *(Replace with your image)*
+![Confusion Matrix](https://user-images.githubusercontent.com/yourimage.png) 
 
 ### **📌 ROC-AUC Curve**
 ![ROC Curve](https://user-images.githubusercontent.com/yourimage.png)
