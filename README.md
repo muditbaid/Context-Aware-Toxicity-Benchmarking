@@ -1,8 +1,8 @@
-```md
+
 # 🚀 ToxiEval: AI-Powered Toxicity Detection & Benchmarking
 **Automated pipeline for toxicity detection using NLP models. Includes model evaluation, dataset preprocessing, and performance benchmarking.**  
 
-![ToxiEval Overview](https://user-images.githubusercontent.com/yourimage.png) *(Add an image or architecture diagram here)*
+![ToxiEval Overview](https://raw.githubusercontent.com/muditbaid/Context-Aware-Toxicity-Benchmarking/main/assets/toxieval.jpg)
 
 ---
 
@@ -129,8 +129,8 @@ Want to improve ToxiEval? Feel free to:
 ---
 
 ## 📬 Contact
-💼 **Your Name**  
-📧 **your.email@example.com**  
+💼 **Mudit Baid**  
+📧 **muditb0712@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/mudit--baid)  
 
 ---
