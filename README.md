@@ -86,24 +86,24 @@ evaluate_model(
 ```
 📦 Main Repo
 ┣ 📂 Hate
-│ ┣ 📂 Notebooks
-│ ┣ 📂 Dataset
-│ ┣ 📂 Visualization
+│ ┣ 📂 notebooks
+│ ┣ 📂 dataset
+│ ┣ 📂 results
 │ ┗ 📜 requirements.txt
 ┣ 📂 Bully
-│ ┣ 📂 Notebooks
-│ ┣ 📂 Dataset
-│ ┣ 📂 Visualization
+│ ┣ 📂 notebooks
+│ ┣ 📂 dataset
+│ ┣ 📂 results
 │ ┗ 📜 requirements.txt
 ┣ 📂 Racism
-│ ┣ 📂 Notebooks
-│ ┣ 📂 Dataset
-│ ┣ 📂 Visualization
+│ ┣ 📂 notebooks
+│ ┣ 📂 dataset
+│ ┣ 📂 results
 │ ┗ 📜 requirements.txt
 ┣ 📂 Threat
-│ ┣ 📂 Notebooks
-│ ┣ 📂 Dataset
-│ ┣ 📂 Visualization
+│ ┣ 📂 notebooks
+│ ┣ 📂 dataset
+│ ┣ 📂 results
 │ ┗ 📜 requirements.txt
 ┗ 📜 README.md → Project documentation
 ```
