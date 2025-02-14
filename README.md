@@ -84,15 +84,28 @@ evaluate_model(
 
 ## 📂 Project Structure
 ```
-📦 ToxiEval
- ┣ 📂 notebooks         # Jupyter Notebooks for analysis
- ┣ 📂 predictions       # CSV files with model predictions
- ┣ 📂 results          # Saved evaluation plots
- ┣ 📂 scripts          # Python scripts for automation
- ┣ 📜 batch_evaluation.py  # Automated evaluation script
- ┣ 📜 evaluate_model.py     # Evaluation & metric functions
- ┣ 📜 README.md         # Project documentation
- ┣ 📜 requirements.txt   # Dependencies
+📦 Main Repo
+┣ 📂 Hate
+│ ┣ 📂 Notebooks
+│ ┣ 📂 Dataset
+│ ┣ 📂 Visualization
+│ ┗ 📜 requirements.txt
+┣ 📂 Bully
+│ ┣ 📂 Notebooks
+│ ┣ 📂 Dataset
+│ ┣ 📂 Visualization
+│ ┗ 📜 requirements.txt
+┣ 📂 Racism
+│ ┣ 📂 Notebooks
+│ ┣ 📂 Dataset
+│ ┣ 📂 Visualization
+│ ┗ 📜 requirements.txt
+┣ 📂 Threat
+│ ┣ 📂 Notebooks
+│ ┣ 📂 Dataset
+│ ┣ 📂 Visualization
+│ ┗ 📜 requirements.txt
+┗ 📜 README.md → Project documentation
 ```
 
 ---
