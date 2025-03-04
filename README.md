@@ -2,7 +2,7 @@
 # 🚀 ToxiEval: AI-Powered Toxicity Detection & Benchmarking
 **Automated pipeline for toxicity detection using NLP models. Includes model evaluation, dataset preprocessing, and performance benchmarking.**  
 
-![ToxiEval Overview](https://raw.githubusercontent.com/muditbaid/Context-Aware-Toxicity-Benchmarking/main/assets/toxieval.jpg)
+![ToxiEval Overview](https://raw.githubusercontent.com/muditbaid/Context-Aware-Toxicity-Benchmarking/main/assets/wordcloud.jpg)
 
 ---
 
@@ -43,18 +43,6 @@ python batch_evaluation.py
 ✔ Identifies `true_label`, `threat`, `identity_attack` dynamically  
 ✔ Evaluates models at **three different thresholds**  
 ✔ Logs metrics & generates performance plots  
-
----
-
-## 📊 Sample Results
-### **📌 Confusion Matrix**
-![Confusion Matrix](https://user-images.githubusercontent.com/yourimage.png) 
-
-### **📌 ROC-AUC Curve**
-![ROC Curve](https://user-images.githubusercontent.com/yourimage.png)
-
-### **📌 Precision-Recall Curve**
-![Precision-Recall](https://user-images.githubusercontent.com/yourimage.png)
 
 ---
 
