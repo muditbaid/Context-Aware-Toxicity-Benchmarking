@@ -48,7 +48,7 @@ Execute the Jupyter notebooks in the `notebooks/` folder to:
 
 Example command:
 ```bash
-jupyter notebook notebooks/hate_speech_evaluation.ipynb
+jupyter notebook notebooks/Top 5 Models.ipynb
 ```
 
 ### 3️⃣ View Results
